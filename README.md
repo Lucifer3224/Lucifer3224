@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center"> 
-    <code style="color : rebeccapurple">Engineering wizard weaving code into groundbreaking innovations, one project at a time.</code>
+    <code style="color : aqua">Engineering wizard weaving code into groundbreaking innovations, one project at a time.</code>
 </h3>
 
 <br/>
