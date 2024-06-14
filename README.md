@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    $${\color{lightblue}Engineering \space wizard \space weaving \space code \space into \space groundbreaking \space innovations, \space one \space project \space at \space a \space time.}$$
+    $${\color{Purple}Engineering \space wizard \space weaving \space code \space into \space groundbreaking \space innovations, \space one \space project \space at \space a \space time.}$$
 </h3>
 
 <br/>
