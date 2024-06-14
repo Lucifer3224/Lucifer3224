@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF69B4&center=true&vCenter=true&width=500&height=70&duration=5000&lines=What’s+kickin’,+chicken?+👋;+I'm+Habiba+Mowafy!;+Welcome+to+my+profile💜;" />
 </h1>
 
-<h3 align="center" style="color: purple;">Engineering wizard weaving code into groundbreaking innovations, one project at a time.</h3>
+<h3 align="center" style="color: rebeccapurple;">Engineering wizard weaving code into groundbreaking innovations, one project at a time.</h3>
 
 <br/>
 
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" />
   </a>
   <a href="https://codeforces.com/profile/Habiba_Mowafy" target="_blank">
-    <img src="https://img.shields.io/badge/-CodeForces-FFFFCC?style=for-the-badge&logo=CodeForces&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/-CodeForces-FFFF00?style=for-the-badge&logo=CodeForces&logoColor=white" target="_blank" />
   </a>
 </div>
 
