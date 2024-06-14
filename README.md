@@ -2,8 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF69B4&center=true&vCenter=true&width=500&height=70&duration=5000&lines=What’s+kickin’,+chicken?+👋;+I'm+Habiba+Mowafy!;+Welcome+to+my+profile💜;" />
 </h1>
 
-<h3 align="center"> 
-    <code style="color : aqua">Engineering wizard weaving code into groundbreaking innovations, one project at a time.</code>
+<h3 align="center">
+    $${\color{lightblue}Engineering \space wizard \space weaving \space code \space into \space groundbreaking \space innovations, \space one \space project \space at \space a \space time.}$$
 </h3>
 
 <br/>
