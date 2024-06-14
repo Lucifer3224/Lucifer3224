@@ -39,7 +39,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,MIPS,octave,matlab,ARM" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,octave,matlab" />
     <img src="https://skillicons.dev/icons?i=pycharm,vscode,github,git,arduino,mysql,flask,django" /><br>
 </div>
 
