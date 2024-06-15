@@ -51,13 +51,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img height="200" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Lucifer3224&count_private=true&theme=holi-theme&border_radius=10" alt="streak stats"/>
+  <img height="200" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Lucifer3224&count_private=true&theme=neon&border_radius=10" alt="streak stats"/>
 <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucifer3224&theme=holi&border_radius=10" />
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucifer3224&theme=neon&border_radius=10" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucifer3224&layout=compact&langs_count=8&card_width=250&theme=holi&border_radius=10" />
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucifer3224&layout=compact&langs_count=8&card_width=250&theme=neon&border_radius=10" />
   </a>
 </div>
 
